@@ -1,0 +1,12 @@
+{
+  "name": "Insights into the Quran — نظرات في القرآن",
+  "short_name": "نظرات في القرآن",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book on Quranic insights",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0D47A1",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
